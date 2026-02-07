@@ -1,36 +1,84 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# DasarNgoding
 
-## Getting Started
+> **Fokus Fundamental, Bukan Shortcut.**
 
-First, run the development server:
+DasarNgoding adalah platform edukasi programming untuk pemula yang ingin memahami dasar pemrograman dengan benar. Kami percaya bahwa fondasi yang kuat adalah kunci kesuksesan jangka panjang dalam dunia programming.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Tentang DasarNgoding
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Di era yang penuh dengan tutorial instan dan framework baru setiap minggu, kami mengambil pendekatan yang berbeda: **kembali ke fundamental**. 
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+DasarNgoding hadir untuk mereka yang:
+- Ingin belajar programming dari nol dengan pendekatan yang benar
+- Lebih tertarik memahami "kenapa" dibanding cuma "bagaimana"
+- Ingin membangun pondasi yang kuat sebelum melompat ke framework
+- Percaya bahwa belajar pelan-pelan tapi konsisten lebih baik dari buru-buru tapi rapuh
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
+## Apa yang Akan Kamu Pelajari?
 
-To learn more about Next.js, take a look at the following resources:
+#### 1. **Fundamental Programming**
+Pahami dasar-dasar yang jadi fondasi semua bahasa pemrograman. Belajar konsep seperti variables, data types, control flow, functions, dan OOP dengan cara yang mudah dipahami.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+#### 2. **Cara Berpikir Programmer**
+Lebih dari sekadar syntax, kami ajarkan cara memecah masalah (problem solving) dan berpikir komputasional yang akan berguna di semua aspek programming.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+#### 3. **Git & Workflow Dasar**
+Version control adalah skill wajib developer modern. Pelajari Git dari dasar, bagaimana berkolaborasi, dan workflow development yang proper.
 
-## Deploy on Vercel
+#### 4. **Konsep Inti Sebelum Framework**
+Kuasai vanilla dulu sebelum lompat ke framework. Pahami DOM manipulation, event handling, asynchronous programming, dan konsep-konsep penting lainnya.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+#### 5. **Project-Based Learning**
+Learning by doing dengan project-project nyata yang melatih skill programming kamu secara holistik.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Kenapa DasarNgoding?
+
+#### Fokus pada Pemahaman, Bukan Hafalan
+Kami tidak minta kamu menghapal syntax. Kami bantu kamu **memahami** konsep sehingga kamu bisa apply ke bahasa atau framework apapun.
+
+#### Materi Terstruktur & Progresif
+Setiap materi dirancang untuk saling melengkapi. Kamu belajar step by step tanpa overwhelmed.
+
+#### Komunitas yang Supportive
+Belajar lebih menyenangkan bersama. Join komunitas kami di social media untuk sharing, bertanya, dan tumbuh bersama.
+
+#### Gratis & Accessible
+Semua konten dasar kami tersedia gratis. Karena kami percaya akses ke edukasi programming berkualitas adalah hak semua orang.
+
+## Untuk Siapa DasarNgoding?
+
+#### Perfect untuk:
+- **Pemula Absolut**: Kamu yang belum pernah coding sama sekali
+- **Self-Learners**: Kamu yang suka belajar mandiri tapi butuh guidance yang jelas
+- **Career Switchers**: Kamu yang mau transisi karir ke tech
+- **Students**: Kamu yang belajar CS/IT tapi merasa kuliah terlalu teoritis
+
+## 📱 Ikuti Kami
+
+Konten edukatif kami tersebar di berbagai platform:
+
+#### 🎬 **TikTok** - [@dasarngoding](https://tiktok.com/@dasarngoding)
+Video pendek & tutorial cepat untuk konsep-konsep programming. Perfect untuk belajar sambil jalan!
+
+#### 📸 **Instagram** - [@dasarngoding.id](https://instagram.com/dasarngoding.id)
+Tips harian, infografis programming, dan insight dari dunia coding. Daily dose of programming knowledge!
+
+#### 💻 **GitHub** - [DasarNgoding](https://github.com/DasarNgoding)
+Source code, project examples, dan resources untuk mendukung pembelajaran kamu. Open source dan free!
+
+
+## 📬 Hubungi Kami
+
+Punya pertanyaan, saran, atau feedback? Kami senang mendengar dari kamu!
+
+- **TikTok**: [@dasarngoding](https://tiktok.com/@dasarngoding)
+- **Instagram**: [@dasarngoding.id](https://instagram.com/dasarngoding.id)
+- **GitHub**: [DasarNgoding](https://github.com/DasarNgoding)
+
+---
+
+
+**🌱 Belajar pelan-pelan, tapi konsisten. 🌱**
+
+*DasarNgoding - Fokus Fundamental, Bukan Shortcut*
